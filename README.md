@@ -1,0 +1,2 @@
+# DiabetesPrediction
+ Diabetes Prediction app 
